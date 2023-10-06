@@ -1,6 +1,6 @@
 # Finanseer
 
-Since this project will hold both the client application and the server application there will be node modules in two different places. First run npm install from the root. After this you will run npm run-script install-all from the root. From now on run this command anytime you want to install all modules again. This is a script we have defined in package.json .
+Since this project will hold both the client application and the server application there will be node modules in two different places. First run npm install from the root. From now on run this command anytime you want to install all modules again. This is a script I have defined in package.json .
 
 In the project directory, you can run:
 
